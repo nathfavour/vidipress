@@ -41,6 +41,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.19.1"
+  compressor:
+    dependency: "direct main"
+    description:
+      name: compressor
+      sha256: "58e1b8e81c9338d9ac1ce5de238ea4da552a2f4b3d9d41d864437d1936c170a7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   cupertino_icons:
     dependency: "direct main"
     description:
